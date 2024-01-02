@@ -15,5 +15,8 @@ window = sg.Window("File Compressor",
                            [label2, input2, choose_button2], 
                           [compress_button]])
 
-window.read()
+while True:
+        event, value = window.read()
+        print(event, value)
+        filepaths = value["Choose"]
 window.close()
