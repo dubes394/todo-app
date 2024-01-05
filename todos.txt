@@ -3,5 +3,3 @@ eat
 code
 a new player
 make soup
-wash car
-gym onlylast
