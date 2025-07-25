@@ -4,7 +4,4 @@ code
 a new player
 make soup
 wash car
-return the amazon order
-study about python 
-go to bank
-call mom
+gym onlylast
